@@ -8,7 +8,6 @@
     "start": "node index.js"
   },
   "repository": {
-    "type": "git",
     "url": "git+https://github.com/comp426-2022-spring/a05-johnmar3.git"
   },
   "keywords": [
@@ -33,5 +32,6 @@
     "minimist": "^1.2.6",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.15"
-  }
+  },
+  "type": "module"
 }
